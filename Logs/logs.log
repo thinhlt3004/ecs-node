@@ -1,0 +1,355 @@
+08-01-2022	11:02:12. id: f359ce00-cc49-4d9b-aa3a-24918f192999 - /api/Account/create - POST - 500 - undefined 
+08-01-2022	09:17:12. id: cbdb4fd2-5ecf-4e76-9617-427598766837 - /api/Account/create - POST - 500 - undefined 
+08-01-2022	23:17:12. id: 80b7386b-bbee-401d-9f85-01d2fdbb2447 - /api/Account/create - POST - 500 - undefined 
+08-01-2022	47:17:12. id: a869a014-f293-4283-b774-0ac2f4d26880 - /api/Account/create - POST - 500 - undefined 
+08-01-2022	26:19:14. id: 70c86c65-1000-4c72-abe0-98f1fb25518e - /api/Account/update-account/61d91ff4677b0022adb97440 - PUT - 500 - undefined 
+08-01-2022	22:30:14. id: d31a5549-0a63-4b53-9097-19d6b9ae3ad2 - /api/Account/login - GET - 404 - Not Found 
+08-01-2022	26:30:14. id: baa19e0c-736c-4508-8989-275581ef8139 - /api/Account/login - POST - 500 - undefined 
+08-01-2022	48:30:14. id: 6f11590c-e017-42d4-909e-fc623da0002d - /api/Account/login - POST - 500 - undefined 
+08-01-2022	59:30:14. id: 19e0d00d-b574-42a6-a3a5-ff0dff1d9b5f - /api/Account/login - POST - 500 - undefined 
+08-01-2022	16:09:15. id: c37c2951-b8e7-4f50-a795-adc68f300eb7 - /api/Service/ - GET - 500 - undefined 
+08-01-2022	03:03:23. id: 5c06dca2-b214-4d90-8c13-889c9c9ca5d4 - /api/ServiceCustomer/create - GET - 404 - Not Found 
+08-01-2022	07:03:23. id: 6e84c26e-0e75-4f3f-81ee-dd428cb2ac74 - /api/ServiceCustomer/create - POST - 500 - undefined 
+08-01-2022	47:03:23. id: 70f234c4-156c-4d2f-a650-5e98167b5c81 - /api/ServiceCustomer/create - POST - 500 - undefined 
+08-01-2022	20:04:23. id: 1a5133d8-71d7-44c1-a08c-362f208478bb - /api/ServiceCustomer/create - POST - 500 - undefined 
+08-01-2022	18:05:23. id: 87361c4a-7c24-4ef5-9df9-edbeb5a59b34 - /api/ServiceCustomer/create - POST - 500 - undefined 
+08-01-2022	42:10:23. id: a154b309-ee4e-4242-bdea-8e8e09b3aa52 - /api/ServiceCustomer/add-employee/61d9b68295d911b84808a6b7 - POST - 500 - undefined 
+08-01-2022	16:36:23. id: d3760de2-3d88-457b-9681-7b3c8627647e - /api/Report/create - POST - 500 - undefined 
+08-01-2022	44:36:23. id: 5bcc1321-be8a-49e9-a891-34c1b30e6a3d - /api/Report/create - POST - 500 - undefined 
+08-01-2022	02:37:23. id: 34313676-1474-485d-88d4-03d16b978fc7 - /api/Report/create - POST - 500 - undefined 
+08-01-2022	13:37:23. id: 0d4924b2-ca33-40e0-829c-65adb1a2d1b2 - /api/Report/create - POST - 500 - undefined 
+08-01-2022	27:37:23. id: 6df6768e-2f7f-467e-b40c-09a504eb9cea - /api/Report/create - POST - 500 - undefined 
+08-01-2022	08:46:23. id: 1804c21b-72e0-482f-a873-2163c3139822 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7 - GET - 500 - undefined 
+09-01-2022	45:03:11. id: f73ced59 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	45:03:11. id: 22137c25 - /favicon.ico - GET - 404 - Not Found 
+09-01-2022	29:05:11. id: 13b2c517 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	30:05:11. id: 4b84a74e - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	48:05:11. id: 2f468a48 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	49:05:11. id: 68a2c014 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	03:06:11. id: 4459d7aa - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	04:06:11. id: ce4d64eb - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	05:06:11. id: ebf9718c - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	05:06:11. id: 9ea71c47 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	05:06:11. id: 6ff642dc - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	05:06:11. id: a2fba94a - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	05:06:11. id: 36b4ee97 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	06:06:11. id: 45ead087 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	06:06:11. id: d254f4b3 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	06:06:11. id: f3e07a7c - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	07:06:11. id: 598a6806 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	27:07:11. id: b2519287 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	43:08:11. id: 3b9bc398 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	44:08:11. id: 6df2f38c - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	44:08:11. id: 8d5d5105 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	45:08:11. id: 43a4f3c6 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	45:08:11. id: e7bc109c - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	19:10:11. id: ea3ea0ad - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	21:10:11. id: 61f1a4b9 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	21:10:11. id: 404f8616 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	21:10:11. id: 2381fa97 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	22:10:11. id: 58ed7485 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	22:10:11. id: c3e5a78d - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	23:10:11. id: 1dc0900f - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	23:10:11. id: b1b6de79 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	36:11:11. id: 438858c6 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	37:11:11. id: 0e895770 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	37:11:11. id: 5f5cf938 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	38:11:11. id: 92cea0fe - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	38:11:11. id: fb21fb54 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	38:11:11. id: d21762b0 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	38:11:11. id: f4470ee0 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	38:11:11. id: 895ba8bc - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	39:11:11. id: fd60329f - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	39:11:11. id: 7e220f88 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	33:12:11. id: 722e5d5d - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	25:13:11. id: b0bf0438 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	26:13:11. id: e64c3924 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	26:13:11. id: 1bcce46c - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	27:13:11. id: f2e30cdd - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	27:13:11. id: b3a19505 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	27:13:11. id: 479f969b - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	45:13:11. id: b5e9f661 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	46:13:11. id: 52246ddc - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	48:18:11. id: 1e55bba2 - /test - GET - 500 - Missing catch or finally after try in E:\nodejs\ECS_Redis\views\demopdf.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option. 
+09-01-2022	38:19:11. id: bde65dda - /api/test - GET - 500 - Missing catch or finally after try in E:\nodejs\ECS_Redis\views\demopdf.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option. 
+09-01-2022	15:21:11. id: b73523a4 - /api/test - GET - 500 - Missing catch or finally after try in E:\nodejs\ECS_Redis\views\demopdf.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option. 
+09-01-2022	21:22:11. id: 60586476 - /api/test - GET - 500 - Missing catch or finally after try in E:\nodejs\ECS_Redis\views\demopdf.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option. 
+09-01-2022	22:22:11. id: 149335de - /api/test - GET - 500 - Missing catch or finally after try in E:\nodejs\ECS_Redis\views\demopdf.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option. 
+09-01-2022	22:22:11. id: c951b91b - /api/test - GET - 500 - Missing catch or finally after try in E:\nodejs\ECS_Redis\views\demopdf.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option. 
+09-01-2022	23:22:11. id: 21e935b1 - /api/test - GET - 500 - Missing catch or finally after try in E:\nodejs\ECS_Redis\views\demopdf.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option. 
+09-01-2022	23:22:11. id: ddc2a111 - /api/test - GET - 500 - Missing catch or finally after try in E:\nodejs\ECS_Redis\views\demopdf.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option. 
+09-01-2022	26:23:11. id: b63398b0 - /api/test - GET - 500 - Missing catch or finally after try in E:\nodejs\ECS_Redis\views\htmltopdf.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option. 
+09-01-2022	27:23:11. id: 3b9e8f10 - /api/test - GET - 500 - Missing catch or finally after try in E:\nodejs\ECS_Redis\views\htmltopdf.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option. 
+09-01-2022	27:23:11. id: ae66905c - /api/test - GET - 500 - Missing catch or finally after try in E:\nodejs\ECS_Redis\views\htmltopdf.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option. 
+09-01-2022	28:23:11. id: d86cc2b4 - /api/test - GET - 500 - Missing catch or finally after try in E:\nodejs\ECS_Redis\views\htmltopdf.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option. 
+09-01-2022	28:23:11. id: a505bcd1 - /api/test - GET - 500 - Missing catch or finally after try in E:\nodejs\ECS_Redis\views\htmltopdf.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option. 
+09-01-2022	28:23:11. id: a629b31a - /api/test - GET - 500 - Missing catch or finally after try in E:\nodejs\ECS_Redis\views\htmltopdf.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option. 
+09-01-2022	28:23:11. id: 494b0dfc - /api/test - GET - 500 - Missing catch or finally after try in E:\nodejs\ECS_Redis\views\htmltopdf.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option. 
+09-01-2022	28:23:11. id: e209ee70 - /api/test - GET - 500 - Missing catch or finally after try in E:\nodejs\ECS_Redis\views\htmltopdf.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option. 
+09-01-2022	29:23:11. id: 9859099b - /api/test - GET - 500 - Missing catch or finally after try in E:\nodejs\ECS_Redis\views\htmltopdf.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option. 
+09-01-2022	29:23:11. id: 41ae9f9a - /api/test - GET - 500 - Missing catch or finally after try in E:\nodejs\ECS_Redis\views\htmltopdf.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option. 
+09-01-2022	29:23:11. id: c8d88490 - /api/test - GET - 500 - Missing catch or finally after try in E:\nodejs\ECS_Redis\views\htmltopdf.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option. 
+09-01-2022	29:23:11. id: b60a50bd - /api/test - GET - 500 - Missing catch or finally after try in E:\nodejs\ECS_Redis\views\htmltopdf.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option. 
+09-01-2022	29:23:11. id: 1ad72566 - /api/test - GET - 500 - Missing catch or finally after try in E:\nodejs\ECS_Redis\views\htmltopdf.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option. 
+09-01-2022	30:23:11. id: 9f7862bc - /api/test - GET - 500 - Missing catch or finally after try in E:\nodejs\ECS_Redis\views\htmltopdf.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option. 
+09-01-2022	46:24:11. id: f394ef34 - /api/test - GET - 500 - Missing catch or finally after try in E:\nodejs\ECS_Redis\views\htmltopdf.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option. 
+09-01-2022	40:26:11. id: 4036d7bd - /api/test - GET - 500 - Missing catch or finally after try in E:\nodejs\ECS_Redis\views\demopdf.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option. 
+09-01-2022	50:26:11. id: 65ea9719 - /api/test - GET - 500 - Missing catch or finally after try in E:\nodejs\ECS_Redis\views\demopdf.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option. 
+09-01-2022	50:26:11. id: 1ccb7966 - /api/test - GET - 500 - Missing catch or finally after try in E:\nodejs\ECS_Redis\views\demopdf.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option. 
+09-01-2022	30:27:11. id: bf256da3 - /api/test - GET - 500 - E:\nodejs\ECS_Redis\views\demopdf.ejs:30
+    28|         <tbody>
+    29|           <tr>
+ >> 30|             <td><%= data._id %></td>
+    31|           </tr>
+    32|         </tbody>
+    33|       </table>
+
+data is not defined 
+09-01-2022	31:27:11. id: c30ac787 - /api/test - GET - 500 - E:\nodejs\ECS_Redis\views\demopdf.ejs:30
+    28|         <tbody>
+    29|           <tr>
+ >> 30|             <td><%= data._id %></td>
+    31|           </tr>
+    32|         </tbody>
+    33|       </table>
+
+data is not defined 
+09-01-2022	44:33:11. id: 3454466c - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	51:33:11. id: 73de52bd - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	16:35:11. id: 6dd7a807 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	41:35:11. id: 89ba2350 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	45:35:11. id: 02ef8783 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	46:35:11. id: 701ca722 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	46:35:11. id: 8817aabc - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	47:35:11. id: 11933c4d - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	47:35:11. id: bd65ecef - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	47:35:11. id: 139b126e - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	47:35:11. id: dee2b523 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	47:35:11. id: 9be936e0 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	30:37:11. id: e7e905d6 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	31:37:11. id: 0bf3aff2 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	31:37:11. id: e4064fc5 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	31:37:11. id: 3a21352e - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	31:37:11. id: 8950531f - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	32:37:11. id: b5403624 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	32:37:11. id: 58a1b9d3 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	32:37:11. id: b2764b43 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	32:37:11. id: 381fc750 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	44:37:11. id: 5e621fab - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	07:39:11. id: bce2f63d - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	08:39:11. id: f1294f1d - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	08:39:11. id: 52daf336 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	09:39:11. id: c7c80b52 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	09:39:11. id: 3d78859c - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	11:39:11. id: 4993724f - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	12:39:11. id: e60aebee - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	12:39:11. id: ba0c9ca4 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	13:39:11. id: c63a92ff - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	13:39:11. id: 59b52939 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	13:39:11. id: 16beced1 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	13:39:11. id: d2bf216c - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	13:39:11. id: 58fbf885 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	14:39:11. id: 14fb423e - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	14:39:11. id: 5467b05f - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	14:39:11. id: 15ee1c09 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	21:39:11. id: 695d2647 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	21:39:11. id: 85f740aa - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	21:39:11. id: 7eb0eb57 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	22:39:11. id: 6032e37b - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	22:39:11. id: bbe2d881 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	22:39:11. id: 58319585 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	22:39:11. id: d3ebd684 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	22:39:11. id: a64b0724 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	23:39:11. id: 1d2c1bc6 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	23:39:11. id: 753c3541 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	28:39:11. id: bc3ecdc3 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	05:48:11. id: e9b545a6 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	07:48:11. id: 44e83ccf - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	08:48:11. id: 6a894d0e - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	08:48:11. id: 69cf379d - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	08:48:11. id: 90afcea8 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	07:49:11. id: 3599513e - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	42:49:11. id: 1edc8500 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	03:50:11. id: dc1a7abe - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	04:50:11. id: a4e029a8 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	04:50:11. id: e3393119 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	05:50:11. id: 7e597672 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	05:50:11. id: 4af4ae23 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	05:50:11. id: f3763514 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	06:50:11. id: 1b898ed9 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	06:50:11. id: 18cc18ef - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	06:50:11. id: 35073bf5 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	06:50:11. id: 8770aace - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	06:50:11. id: 6444914a - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	06:50:11. id: fb242a1a - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	07:50:11. id: ea3f7c00 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	07:50:11. id: a344ef8b - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	07:50:11. id: 6520a921 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	07:50:11. id: 7e7b6ae0 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	07:50:11. id: b09179c7 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	08:50:11. id: c16e4807 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	08:50:11. id: 69ec1e3b - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	29:50:11. id: 05c4c2cf - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	07:51:11. id: 43a5c4bf - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	24:51:11. id: 35496e6f - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	38:52:11. id: 569052f3 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	39:52:11. id: 48ef3e95 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	39:52:11. id: 77e8fa7c - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	40:52:11. id: 50e6be2a - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	40:52:11. id: 5977e935 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	40:52:11. id: 2c67c85e - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	43:52:11. id: f0a8c6be - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	44:52:11. id: 9c228ab1 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	18:53:11. id: 9d3e6344 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-pdf - GET - 500 - undefined 
+09-01-2022	20:55:13. id: 8c31625f - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-excel - GET - 500 - undefined 
+09-01-2022	14:59:13. id: ca7ff7e4 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-excel - GET - 500 - undefined 
+09-01-2022	59:15:14. id: e418e985 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-excel - GET - 500 - undefined 
+09-01-2022	59:15:14. id: d05af85c - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-excel - GET - 500 - undefined 
+09-01-2022	42:01:15. id: d9db9751 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-excel - GET - 500 - undefined 
+09-01-2022	51:01:15. id: 329401a7 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-excel - GET - 500 - undefined 
+09-01-2022	40:02:15. id: 776d48ed - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-excel - GET - 500 - undefined 
+09-01-2022	40:03:15. id: 96241f26 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-excel - GET - 500 - undefined 
+09-01-2022	00:05:15. id: 2b2663fa - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-excel - GET - 500 - undefined 
+09-01-2022	02:05:15. id: d6530fb1 - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-excel - GET - 500 - undefined 
+09-01-2022	11:05:15. id: 8207340e - /api/Report/get-by-service-customer/61d9b68295d911b84808a6b7/get-report-excel - GET - 500 - undefined 
+09-01-2022	00:30:23. id: 74eaef6e - /api/Service/get-all-agrregation - GET - 500 - undefined 
+09-01-2022	25:30:23. id: 112fe3f6 - /api/Service/get-all-agrregation - GET - 500 - undefined 
+09-01-2022	27:30:23. id: d3d7eba7 - /api/Service/get-all-agrregation - GET - 500 - undefined 
+09-01-2022	14:31:23. id: bb1feb4c - /api/Service/get-all-agrregation - GET - 500 - undefined 
+09-01-2022	44:32:23. id: 6547e144 - /api/Service/get-all-agrregation - GET - 500 - undefined 
+09-01-2022	45:32:23. id: 5284028e - /api/Service/get-all-agrregation - GET - 500 - undefined 
+09-01-2022	46:32:23. id: e2237f78 - /api/Service/get-all-agrregation - GET - 500 - undefined 
+09-01-2022	48:32:23. id: d1ce858d - /api/Service/get-all-agrregation - GET - 500 - undefined 
+09-01-2022	54:33:23. id: 6ba0fbfb - /api/Service/get-all-agrregation - GET - 500 - undefined 
+09-01-2022	48:34:23. id: 423ebdb3 - /api/Service/get-all-agrregation - GET - 500 - undefined 
+09-01-2022	16:36:23. id: 3d49c19f - /api/Service/get-all-agrregation - GET - 500 - undefined 
+09-01-2022	17:36:23. id: ed13e4c5 - /api/Service/get-all-agrregation - GET - 500 - undefined 
+09-01-2022	31:36:23. id: aa53ecc3 - /api/Service/get-all-agrregation - GET - 500 - undefined 
+09-01-2022	40:36:23. id: cc3bbc2e - /api/Service/get-all-agrregation - GET - 500 - undefined 
+09-01-2022	32:39:23. id: fad28882 - /api/Service/get-all-agrregation - GET - 500 - undefined 
+09-01-2022	37:41:23. id: d2a7787d - /api/Service/get-all-agrregation - GET - 500 - undefined 
+09-01-2022	06:43:23. id: bec0c2ef - /api/Service/get-all-agrregation - GET - 500 - undefined 
+09-01-2022	07:43:23. id: 2ac7fc7b - /api/Service/get-all-agrregation - GET - 500 - undefined 
+09-01-2022	08:43:23. id: 757f0cb7 - /api/Service/get-all-agrregation - GET - 500 - undefined 
+09-01-2022	09:43:23. id: d3609ce5 - /api/Service/get-all-agrregation - GET - 500 - undefined 
+09-01-2022	32:43:23. id: 4bbac89d - /api/Service/get-all-agrregation - GET - 500 - undefined 
+09-01-2022	59:43:23. id: d0a3b9e3 - /api/Service/get-all - GET - 500 - undefined 
+09-01-2022	30:46:23. id: 561bd2d9 - /api/Service - GET - 500 - undefined 
+09-01-2022	56:46:23. id: 99dbe575 - /api/Service - GET - 500 - undefined 
+09-01-2022	31:47:23. id: b2ac5c66 - /api/Service/get-all - GET - 500 - undefined 
+09-01-2022	44:47:23. id: 435232e5 - /api/Service/get-all-services - GET - 500 - undefined 
+09-01-2022	01:51:23. id: 55ed8769 - /api/Service/get-all-services - GET - 500 - undefined 
+09-01-2022	02:55:23. id: 380ea3d5 - /api/Service/get-all-services - GET - 500 - undefined 
+09-01-2022	53:55:23. id: ef5df7bc - /api/Service/get-all-services - GET - 500 - undefined 
+09-01-2022	20:57:23. id: 61e00803 - /api/Service/get-all-services - GET - 500 - undefined 
+09-01-2022	21:57:23. id: f11779e9 - /api/Service/get-all-services - GET - 500 - undefined 
+09-01-2022	21:57:23. id: 9b18378c - /api/Service/get-all-services - GET - 500 - undefined 
+10-01-2022	25:00:00. id: 5690847d - /api/Service/get-all-services - GET - 500 - undefined 
+10-01-2022	21:03:00. id: 4deac8cb - /api/Service/get-all-services - GET - 500 - undefined 
+10-01-2022	09:05:13. id: 88e8c0e2 - /api/ServiceCustomer/get-all=included - GET - 404 - Not Found 
+10-01-2022	35:09:13. id: f4090771 - /api/Department - GET - 500 - undefined 
+10-01-2022	04:39:13. id: 97bf0d4b - /api/Department - GET - 500 - undefined 
